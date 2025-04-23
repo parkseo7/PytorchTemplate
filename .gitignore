@@ -1,3 +1,10 @@
+# PERSONAL
+venv/*
+resources/*
+models/*
+
+*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
